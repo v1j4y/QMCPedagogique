@@ -1,0 +1,13 @@
+name = "QMCPedagogique"
+uuid = "89946616-03ed-42da-a875-613a4e540372"
+authors = ["v1j4y <vijay.gopal.c@gmail.com> and contributors"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.8.2"
+
+[targets]
+test = ["Test"]
