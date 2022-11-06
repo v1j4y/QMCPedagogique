@@ -22,6 +22,7 @@ Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
 slaterlibjl = "f626ac06-0318-4850-8adf-601d70f8edcf"
 
 [compat]
+Revise = "3"
 julia = "1.8.2"
 
 [extras]
